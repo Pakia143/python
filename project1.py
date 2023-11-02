@@ -1,3 +1,4 @@
+# Game: Rock, Paper, Scissor
 import random
 while True:
     my_answer = input("choose: rock, paper, scissor \n")
